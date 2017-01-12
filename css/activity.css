@@ -1,0 +1,32 @@
+.newspagehder{background-color: #50698c;}
+#light{
+  pointer-events:none;
+}
+#news
+{
+  margin-top: 100px;
+}
+.tittle h1
+{
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 30px;
+}
+#nphd
+{
+  margin-top: 100px;
+  color:white;
+}
+.title hr
+{
+  margin: 30px auto;
+}
+.title p
+{
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  margin-bottom: 50px;
+}
